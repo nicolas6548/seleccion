@@ -1,0 +1,17 @@
+* {
+  margin: 5px;
+  padding: 5px;
+  box-sizing: border-box;
+  background-color: bisque;
+}
+
+h1 {
+  font-size: 30px;
+  text-align: center;
+}
+
+header {
+  border-radius: solid 2px;
+  border-color: red !important;
+  padding: 20px;
+}
