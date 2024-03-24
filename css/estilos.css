@@ -9,9 +9,3 @@ h1 {
   font-size: 30px;
   text-align: center;
 }
-
-header {
-  border-radius: solid 2px;
-  border-color: red !important;
-  padding: 20px;
-}
