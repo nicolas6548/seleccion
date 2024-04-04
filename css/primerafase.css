@@ -1,0 +1,152 @@
+#parrafo1 {
+    font-size: 200%;
+    text-align: justify; 
+    margin-left: 2%;
+    margin-right: 2%;
+   
+}
+
+#encuentro {
+    margin-left: 40%;
+    font-size: 150%;
+    text-decoration: overline;
+    margin-top: 4%;
+}
+
+
+.imagen1 img {
+    margin-left: 13%;
+    height: 600px;
+    width: 70%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+#parrafo2 {
+    font-size: 150%;
+    text-align: justify;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.fotoea1 img {
+    margin-left: 2%;
+    width: 40%;
+    height: 500px;
+    margin-top: 90px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.fotoea2 img {
+    display: block;
+    margin-left: 50%;
+    margin-top: -40%;
+    width: 40%;
+    height: 300px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.fotoea3 img {
+    width: 40%;
+    margin-left: 50%;
+    height: 250px;
+    margin-top: 90px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+
+
+
+
+.fotomex1 img{
+    margin-top: -20%;
+    margin-left: 1%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+
+}
+
+#parrafo5 {
+    margin-left: 50%;
+    margin-top: 10%;
+    font-size: 40px;
+    margin-right: 2%;
+    text-align: justify;
+}
+
+.fotomex2 img{
+    width: 47%;
+    margin-left: 51%;
+    margin-top: 30px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+#parrafo6{
+    font-size:40px;
+    margin-top: -20%;
+    margin-right: 55%;
+    margin-left: 2%;
+    text-align: justify;
+}
+
+.fotomex3 img{
+    width: 50%;
+    margin-top: 140px;
+    height: 400px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+#parrafo7{
+    margin-left: 55%;
+    margin-top: -20%;
+    font-size: 40px;
+    margin-right: 2%;
+    text-align: justify;
+    margin-bottom: 15%;
+}
+#ultimoencuentro {
+    margin-left: 40%;
+    font-size: 150%;
+    text-decoration: overline;
+    margin-top: 4%;
+}
+#parrafo8 {
+    margin-left: 5%;
+    margin-top: 5%;
+    font-size: 27px;
+    margin-bottom: 3%;
+}
+
+.polonia img {
+    width: 50%;
+    margin-left: 20%;
+    margin-bottom: 5%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    
+}
+
+#parrafo9 {
+    margin-left: 10%;
+    margin-top: 5%;
+    font-size: 27px;
+    margin-bottom: 3%;
+}
+
+.polonia2 img {
+    width: 50%;
+    margin-left: 20%;
+    margin-bottom: 5%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+#parrafo10 {
+    margin-left: 10%;
+    margin-top: 5%;
+    font-size: 27px;
+    margin-bottom: 3%; 
+}
+
+.polonia3 img {
+    width: 50%;
+    margin-left: 20%;
+    margin-bottom: 5%;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5); 
+}

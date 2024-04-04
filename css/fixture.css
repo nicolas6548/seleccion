@@ -1,0 +1,71 @@
+
+
+
+body {
+    background-color: rgb(240, 234, 234);
+
+}
+
+h1 {
+    text-align: center;
+    
+}
+
+p {
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+
+}
+
+h2 {
+    margin-left: 200px;
+    margin-right: 230px;
+    text-align: justify;
+}
+
+.icon img {
+    background-color: blue;
+    height: 10px;
+}
+
+.foto_fixture img {
+    width: 70%;
+    height: 500px;
+    margin-left: 14%;
+}
+
+.foto_grupoc img {
+    height: 350px;
+    width: 50%;
+    margin-left: 24%;
+}
+
+.foto_resgrupoc img {
+    width: 72%;
+    margin-left: 13%;
+}
+
+.foto_octavos img {
+    width: 72%;
+    height: 700px;
+    margin-left: 13%;
+}
+
+.foto_cuartos img {
+    width: 71%;
+    height: 400px;
+    margin-left: 13%;
+}
+
+.foto_semi img {
+    width: 71%;
+    height: 300px;
+    margin-left: 14%;
+}
+
+.foto_final img {
+    width: 71%;
+    height: 200px;
+    margin-left: 14%;
+}
