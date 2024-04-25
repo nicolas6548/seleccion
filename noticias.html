@@ -1,40 +1,94 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta
-      name="mundial qatar"
-      content="Esta es una pagina donde reviviremos el mundial de QATAR con nuestros ojos"
-    />
-    <title>SELECCION</title>
-    <link rel="stylesheet" href="css/estilos.css" />
-    <link rel="icon" href="imagenes/TP CODO A CODO/copa.png" />
-  </head>
 
-  <header>
-    <section> 
-      <!-- logo -->
-      <a href="#inicio"><img src="imagenes/TP CODO A CODO/copa.png" alt="copa" width="10%"></a>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="mundial qatar" content="Esta es una pagina donde reviviremos el mundial de QATAR con nuestros ojos" />
+  <title>SELECCION</title>
+  <link rel="stylesheet" href="css/estilos.css" />
+  <link rel="icon" href="imagenes/TP CODO A CODO/copa.png" />
+
+  <link rel="stylesheet" href="css/noticias.css" />
+  <link rel="stylesheet" href="css/bootstrap.min.css" />
+  <script src="js/bootstrap.min.js"></script>
+
+</head>
+
+<header>
+  <section>
+    <!-- logo -->
+    <a href="#inicio"><img src="imagenes/TP CODO A CODO/copa.png" alt="copa" width="10%"></a>
     <!-- barra de navegacion -->
     <nav>
       <ul>
-      <a href="index.html">HOME</a>
-      <a href="fixture.html">FIXTURE</a>
-      <a href="primeraFase.html">PRIMERA FASE</a>
-      <a href="octavos.html">OCTAVOS</a>
-      <a href="cuartos.html">CUARTOS</a>
-      <a href="semi.html">SEMI</a>
-      <a href="final.html">LA GRAN FINAL</a>
-      <a href="genios.html">GENIOS</a>
-      <a href="historia.html">UN POCO DE HISTORIA</a>
-      <a href="noticias.html">NOTICIAS</a>
-      <a href="anegdotas.html">ANEGDOTAS</a>
-      <a href="contacto.html">CONTACTO</a>
-      <a href="visitas.html">LIBRO DE VISITAS</a>
-    </nav>  
-    </section>
-  </header>
+        <a href="index.html">HOME</a>
+        <a href="fixture.html">FIXTURE</a>
+        <a href="primeraFase.html">PRIMERA FASE</a>
+        <a href="octavos.html">OCTAVOS</a>
+        <a href="cuartos.html">CUARTOS</a>
+        <a href="semi.html">SEMI</a>
+        <a href="final.html">LA GRAN FINAL</a>
+        <a href="genios.html">GENIOS</a>
+        <a href="historia.html">UN POCO DE HISTORIA</a>
+        <a href="noticias.html">NOTICIAS</a>
+        <a href="anegdotas.html">ANEGDOTAS</a>
+        <a href="contacto.html">CONTACTO</a>
+        <a href="visitas.html">LIBRO DE VISITAS</a>
+    </nav>
+  </section>
+</header>
 
-  <body></body>
+<body>
+
+  <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-indicators">
+      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"
+        aria-current="true" aria-label="Slide 1"></button>
+      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"
+        aria-label="Slide 2"></button>
+      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2"
+        aria-label="Slide 3"></button>
+    </div>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="imagenes/Jugadores/palacios.jpg" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>Exequiel Palacios</h5>
+          <p> futbolista argentino que juega como mediocampista en Bayer Leverkusen, de la
+            Bundesliga de Alemania. Surgió en River Plate en 2015 y sus buenas actuaciones le fueron abriendo un lugar
+            como titular, además de entrar en el radar de varios equipos del fútbol europeo</p>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img src="imagenes/Jugadores/pezzella.jpg" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>Germán Pezzella </h5>
+          <p>futbolista argentino surgido en River Plate que milita en Real Betis, de la Liga de
+            España. Integra la selección argentina desde su primera convocatoria, en 2017, y estuvo en la lista de 28
+            jugadores del plantel que ganó la Copa América de 2021</p>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <img src="imagenes/Jugadores/romero.jpg" alt="...">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>Cristian Cuti Romero</h5>
+          <p> futbolista argentino nacido en 1998 y que se despeña actualmente como defensor
+            central en Tottenham Hotspur, de la Premier League de Inglaterra. Nacido en Córdoba, se estrenó como
+            profesional en el club Belgrano, cuando tenía apenas 18 años</p>
+        </div>
+      </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+
+</body>
+
 </html>
